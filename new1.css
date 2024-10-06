@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('images/hero-bg.jpg'); /* Add your hero background image */
+    background-size: cover;
+    background-position: center;
+}
+
+section {
+    padding: 60px 0;
+}
